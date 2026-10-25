@@ -79,6 +79,29 @@ flowchart TB
 
 ## 📸 All Screenshots
 Every verification screenshot is in this repository, named by phase (p1 through p5).
+<img width="631" height="162" alt="p3-dhcp-failover" src="https://github.com/user-attachments/assets/0b38b035-f94e-4cdf-a71c-3344fd02e16f" />
+<img width="1295" height="232" alt="p2-vm-switch-connections" src="https://github.com/user-attachments/assets/65958692-2eae-4668-93d9-9e21181d92cf" />
+<img width="1283" height="243" alt="p2-virtual-switch" src="https://github.com/user-attachments/assets/697ce102-59af-491b-9f34-94779d00fa49" />
+<img width="1209" height="396" alt="p2-netnat" src="https://github.com/user-attachments/assets/39c6a2ae-ac3f-4360-b271-763c264ab88a" />
+<img width="1083" height="347" alt="p2-ad-ds-role" src="https://github.com/user-attachments/assets/c5846659-09c0-4923-a0dd-cb582026295b" />
+<img width="440" height="202" alt="p1-hyperv-folder-locations" src="https://github.com/user-attachments/assets/62b34142-83b8-4df5-a83b-a5828c328d1a" />
+<img width="893" height="260" alt="p1-differencing-disks" src="https://github.com/user-attachments/assets/b623842c-0ee9-44ab-9fe3-11c47dc4d6bf" />
+<img width="508" height="214" alt="p1-base-images" src="https://github.com/user-attachments/assets/5b7b3936-1bad-401b-9150-ed568c1f05a8" />
+<img width="1297" height="199" alt="p5-running-containers" src="https://github.com/user-attachments/assets/0008a425-0e4b-4eb0-8181-8595a6c62c6c" />
+<img width="1262" height="122" alt="p5-rsiweb-bind-mount" src="https://github.com/user-attachments/assets/73ee34c1-d37d-4d4d-9d7b-f50ea00f07e5" />
+<img width="627" height="112" alt="p5-port-bindings" src="https://github.com/user-attachments/assets/15e2df9a-47d4-49f8-9924-ad92aa7bd7fa" />
+<img width="1024" height="640" alt="p4-gpo-ws-updates" src="https://github.com/user-attachments/assets/b7e61d66-586f-4075-aedd-5cf2595b983d" />
+<img width="990" height="585" alt="p4-gpo-ws-security" src="https://github.com/user-attachments/assets/6a9679ce-5319-4144-b017-710935c06a9f" />
+<img width="1101" height="157" alt="p4-docker-images" src="https://github.com/user-attachments/assets/37cdbb7f-0bf7-4e09-b11c-8e454b90cf3e" />
+<img width="1293" height="226" alt="p4-container-templates" src="https://github.com/user-attachments/assets/636bf766-a8d4-4004-ac50-c568156c2851" />
+<img width="829" height="269" alt="p4-bind-mount-folders" src="https://github.com/user-attachments/assets/c86fbc48-0168-4e4e-b8ff-caa1739a8a5e" />
+<img width="1286" height="674" alt="p3-rsi-shares-permissions" src="https://github.com/user-attachments/assets/10867901-0686-4345-ac16-6b1abc1f4dca" />
+<img width="624" height="198" alt="p3-rsi-ous" src="https://github.com/user-attachments/assets/090e73bc-8b1b-433c-bc94-74e3c3c63305" />
+<img width="1284" height="528" alt="p3-rsi-groups" src="https://github.com/user-attachments/assets/a0d964e7-75f0-4a91-8bef-e08712efacc0" />
+<img width="1095" height="253" alt="p3-parent-child-domains" src="https://github.com/user-attachments/assets/87bb8b54-6c95-4641-973c-e9a9eb5a69e6" />
+<img width="1030" height="145" alt="p3-dns-reverse-lookup" src="https://github.com/user-attachments/assets/794709a9-63be-413b-a945-4931696eb80b" />
+<img width="603" height="251" alt="p3-dhcp-scope-options" src="https://github.com/user-attachments/assets/ce466235-9c8b-4242-90d7-13847ee266bd" />
+<img width="809" height="199" alt="p3-dhcp-leases" src="https://github.com/user-attachments/assets/f024084a-be21-4671-a567-3e8104513973" />
 
 ## 💡 Skills Demonstrated
 Windows Server administration · Hyper-V virtualization · Active Directory design · DHCP & DNS · Group Policy hardening · File share permissions · PowerShell verification · Docker containers · Technical documentation
